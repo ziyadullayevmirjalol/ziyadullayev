@@ -623,3 +623,11 @@ a {
 .letter-spacing {
   letter-spacing: .2rem;
   color: rgba(255, 255, 255, 0.5) !important; }
+.social-item-home {
+  margin: 10px;
+}
+.social-item-home .social-item{
+  font-size: 2.5rem; /* Increase the size as needed */
+  margin: 20px;
+  margin-right: 10px;
+}
