@@ -748,6 +748,7 @@ a:active {
 
 .form-control:active,
 .form-control:focus {
+  color: #fff;
   background: #404040;
 }
 
